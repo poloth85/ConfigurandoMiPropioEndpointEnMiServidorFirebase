@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#5D4037  </color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="textoTitulo">#FFFFFF</color>
+    <color name="colorBlanco">#FFFFFF</color>
+    <color name="petName">#FFA71313</color>
+    <color name="back">#75e2e9</color>
+    <color name="tittle">#000000</color>
+</resources>

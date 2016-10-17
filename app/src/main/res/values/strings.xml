@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="pnombre">nombre</string>
+    <string name="praite">raite</string>
+    <string name="title_activity_2">Activity2</string>
+    <string name="menu_about">Acerca De</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_config">Configurar Cuenta</string>
+    <string name="fnombre">Nombre</string>
+    <string name="femail">Mail</string>
+    <string name="fmensaje">Mensaje</string>
+    <string name="btn_enviar">Enviar Comentario</string>
+    <string name="btn_guardar">Guardar Cuenta</string>
+    <string name="tvNombreAb">Leopolso S. Padilla B.</string>
+    <string name="tvFechaAb">Octubre 1980</string>
+    <string name="tvProfesionAb">Ing. Sistemas Computacionales</string>
+    <string name="tvEscuelaAb">Instituto Tecnológico y de Estudios Superiores de Monterrey</string>
+    <string name="txtCuenta">Escribe tu usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_notification">Recibir Notificacion</string>
+    <string name="lanzar_notificacion">Lanzar Notificacion</string>
+    <string name="recibir_notificacion">Recibir Notificaciones</string>
+</resources>
+
